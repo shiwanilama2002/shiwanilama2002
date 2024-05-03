@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiwani Lama.</h1>
 <p align="center">A Passionate QA fresher diving into software testing with a hunger for learning and a drive to contribute to innovative projects.</p>
-<img align="right" alt="qa" width="400" src="https://in.pinterest.com/pin/197454764893656778/">
+<img align="right" alt="qa" width="400" src="D:\qa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwanilama2002&label=Profile%20views&color=0e75b6&style=flat" alt="shiwanilama2002" /> </p>
 
