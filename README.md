@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiwani Lama.</h1>
 <p align="center">A Passionate QA fresher diving into software testing with a hunger for learning and a drive to contribute to innovative projects.</p>
-<img align="right" alt="qa" width="400" src="D:\qa.gif">
+<img align="right" alt="qa" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Finnovative-qa-testing-professionals-across-the-globe-can-share-their-thoughts-experience-and-discuss-lat--197454764893656778%2F&psig=AOvVaw3pVhcGxFBGy6jkIaXI5Lvz&ust=1714794334668000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCiuPrI8IUDFQAAAAAdAAAAABAE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwanilama2002&label=Profile%20views&color=0e75b6&style=flat" alt="shiwanilama2002" /> </p>
 
