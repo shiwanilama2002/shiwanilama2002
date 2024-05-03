@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiwani Lama.</h1>
 <p align="center">A Passionate QA fresher diving into software testing with a hunger for learning and a drive to contribute to innovative projects.</p>
-<img align="right" alt="qa" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fappinventiv.com%2Fblog%2Fquality-assurance-process-secret-weapon-can-make-break-mobile-app%2F&psig=AOvVaw0RulUjz_SDrX1w2cxV20A1&ust=1714793716352000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD2x8_G8IUDFQAAAAAdAAAAABAN"
+<img align="right" alt="qa" width="400" src="https://in.pinterest.com/pin/197454764893656778/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwanilama2002&label=Profile%20views&color=0e75b6&style=flat" alt="shiwanilama2002" /> </p>
 
