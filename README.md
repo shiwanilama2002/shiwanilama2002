@@ -1,3 +1,4 @@
+![logo](https://github.com/shiwanilama2002/shiwanilama2002/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shiwani Lama.</h1>
 <p align="center"><b>A Passionate QA fresher diving into software testing with a hunger for learning and a drive to contribute to innovative projects.<b></p>
 <img align="right" width="450" alt="qa" src="https://drive.google.com/uc?export=download&id=1zsciW1Wtubj50sXqk_q9pSYt40pEnddh" alt="Alt Text">
